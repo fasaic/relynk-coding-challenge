@@ -34,6 +34,7 @@ To get sensor data, it can be done by sending a `GET` request to
 
 The query parameters are optional, where `startDate` & `endDate` indicate the desired time-frame of the query `room` indicates the room name
 `measurement` indicates the measurement type
+<img width="1360" alt="Screen Shot 2566-05-08 at 15 00 51" src="https://user-images.githubusercontent.com/77038679/236867148-3e49c99c-9716-4761-a6a6-cd593a10e1c6.png">
 
 
 ## Planning
